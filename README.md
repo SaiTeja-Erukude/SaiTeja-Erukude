@@ -4,7 +4,8 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-erukude/) 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erukude.saiteja@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Portfolio-WebSite-green)](https://saiteja-erukude-portfolio.herokuapp.com/)
+[![Website Badge](https://img.shields.io/badge/Portfolio-green)](https://saiteja-erukude-portfolio.herokuapp.com/)
+[![Website Badge](https://img.shields.io/badge/Resume-orange)](https://drive.google.com/file/d/1xDOK0syUhlWaDLFYIFr97RXe1Mn0b_yP/view?usp=sharing)
 
 
 #### I'm a Software Developer with 2 years of professional work experience.
