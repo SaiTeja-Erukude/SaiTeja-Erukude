@@ -1,4 +1,4 @@
-### Hi there 👋
+#### Hey there! 👋
 
 <br/>
 
@@ -7,18 +7,16 @@
 [![Website Badge](https://img.shields.io/badge/Portfolio-green)](https://saiteja-erukude-portfolio.herokuapp.com/)
 [![Website Badge](https://img.shields.io/badge/Resume-orange)](https://drive.google.com/file/d/1xDOK0syUhlWaDLFYIFr97RXe1Mn0b_yP/view?usp=sharing)
 
-
-#### I'm a Software Developer with 2 years of professional work experience.
-#### Loves solving real-world problems and developing full stack web apps be it using MERN stack or Spring Boot. 
-
-<br/>
-
-- 🔭 I’m currently working on - **Full stack web app development** 
-- 🌱 I’m currently learning - **Machine Learning**
+ 
+##### A 2+ year experienced Software Developer who loves building robust full stack applications.
+##### Currently a Master's student in Computer Science at Kansas State University. 
 
 <br/>
 
-#### My plethora of skills include: 
+- 🔭 I’m currently working on - **ML/DL** 
+<br/>
+
+##### My plethora of skills include: 
 
 ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -30,7 +28,7 @@
 
 
 
-##### Happy to connect and collaborate with self driven and motivated people. Feel free to reach out! 
+##### Excited to work with self-motivated professionals. Feel free to reach me out!
 
 <!--
 
