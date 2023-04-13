@@ -4,17 +4,18 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-erukude/) 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erukude.saiteja@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Portfolio-green)](https://saiteja-erukude-portfolio.herokuapp.com/)
-[![Website Badge](https://img.shields.io/badge/Resume-orange)](https://drive.google.com/file/d/1xDOK0syUhlWaDLFYIFr97RXe1Mn0b_yP/view?usp=sharing)
+[![Website Badge](https://img.shields.io/badge/Resume-orange)](https://drive.google.com/file/d/1_TN-lLqSrpYtkVLHzEAYKq3vSnlX8Kh4/view?usp=share_link)
 
  
-##### A 2+ year experienced Software Developer who loves building robust full stack applications.
-##### Currently a Master's student in Computer Science at Kansas State University. 
+##### As a software developer with 3 years of experience in several tech firms, I’ve developed expertise in implementing complex software solutions.
 
-<br/>
+##### Well-versed in a wide range of Computer Science disciplines including Full Stack Website Development (using MERN stack, AEM 6.5, Java Spring Boot, SQL/NoSQL), Machine Learning and DataScience. Extremely passionate about integrating ML models with website development to build innovative solutions.
 
-- 🔭 I’m currently working on - **ML/DL** 
-<br/>
+##### I’m now pursuing a Master’s degree in Computer Science at Kansas State University to further deepen my knowledge and skills while also exploring new areas of interests.
+
+##### Always down to collaborate with self-motivated professionals. If you are looking for a skilled and experienced Software Developer, I’d love to connect and discuss how we can work together to achieve your goals.
+
+</br>
 
 ##### My plethora of skills include: 
 
@@ -26,9 +27,6 @@
 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-
-
-##### Excited to work with self-motivated professionals. Feel free to reach me out!
 
 <!--
 
