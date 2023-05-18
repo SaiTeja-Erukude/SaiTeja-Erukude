@@ -4,9 +4,8 @@
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-teja-erukude/) 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erukude.saiteja@gmail.com)
-[![Website Badge](https://img.shields.io/badge/Resume-orange)](https://drive.google.com/file/d/1_TN-lLqSrpYtkVLHzEAYKq3vSnlX8Kh4/view?usp=share_link)
+<br/>
 
- 
 ##### As a software developer with 3 years of experience in several tech firms, I’ve developed expertise in implementing complex software solutions.
 
 ##### Well-versed in a wide range of Computer Science disciplines including Full Stack Website Development (using MERN stack, AEM 6.5, Java Spring Boot, SQL/NoSQL), Machine Learning and DataScience. Extremely passionate about integrating ML models with website development to build innovative solutions.
