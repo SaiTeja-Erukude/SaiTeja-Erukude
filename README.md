@@ -6,7 +6,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erukude.saiteja@gmail.com)
 <br/>
 
-##### As a software developer with 3 years of experience in several tech firms, I’ve developed expertise in implementing complex software solutions.
+##### As a software engineer with 3 years of experience in several tech firms, I’ve developed expertise in implementing complex software solutions.
 
 ##### Well-versed in a wide range of Computer Science disciplines including Full Stack Website Development (using MERN stack, AEM 6.5, Java Spring Boot, SQL/NoSQL), Machine Learning and DataScience. Extremely passionate about integrating ML models with web applications to build intelligent solutions.
 
