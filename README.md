@@ -1,4 +1,4 @@
-#### Hey there! 👋
+### Hey there! 👋
 
 <br/>
 
@@ -6,13 +6,13 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erukude.saiteja@gmail.com)
 <br/>
 
-##### As a software engineer with 3 years of experience in several tech firms, I’ve developed expertise in implementing complex software solutions.
+#### As a Software Engineer with 3 years of experience in several tech firms, I’ve developed expertise in implementing complex software solutions.
 
-##### Well-versed in a wide range of Computer Science disciplines including Full Stack Website Development (using MERN stack, AEM 6.5, Java Spring Boot, SQL/NoSQL), Machine Learning and DataScience. Extremely passionate about integrating ML models with web applications to build intelligent solutions.
+#### Well-versed in various Computer Science disciplines including Full Stack Website Development, Machine Learning, and Data Science. Extremely passionate about integrating ML/DL models with web applications to build intelligent solutions.
 
-##### I’m now pursuing a Master’s degree in Computer Science at Kansas State University to further deepen my knowledge and skills while also exploring new areas of interests.
+#### I’m now pursuing a Master’s degree in Computer Science at Kansas State University to further deepen my knowledge and skills and explore new areas of interest.
 
-##### Always down to collaborate with self-motivated professionals. If you are looking for a skilled and experienced Software Developer, I’d love to connect and discuss how we can work together to achieve your goals.
+#### Always down to collaborate with self-motivated professionals. If you are looking for a skilled and experienced Software Engineer, I’d love to connect and discuss how we can work together to achieve your goals.
 
 <!--
 
