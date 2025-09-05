@@ -1,6 +1,6 @@
-Sai is a Data Scientist at Koch Ag & Energy Solutions and a passionate researcher. He holds a Master’s degree in Computer Science from Kansas State University and has a 4.0 GPA. With over five years of experience, Sai specializes in developing innovative software solutions.
+Sai is a Data Scientist at Koch Ag & Energy Solutions and a passionate researcher. He holds a Master’s degree in Computer Science from Kansas State University and has a 4.0 GPA. With over five years of experience, Sai specializes in building AI-powered data solutions.
 
-His research interests include Generative AI, Deep Learning, and real-world AI applications and he is driven by a passion for creating a positive impact through meaningful research.
+His research interests include Generative AI and Deep Learning, and he is driven by a passion for creating a positive impact through meaningful research.
 
 <br/>
 
