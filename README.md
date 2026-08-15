@@ -1,17 +1,15 @@
 # Sai Teja Erukude
 **Data Scientist | AI Researcher | Responsible AI & AI Security Practitioner**
 
-Sai works at the intersection of applied AI, responsible AI, computer vision, LLM safety, and research-driven open-source tooling. His work focuses on building trustworthy AI systems that can be evaluated, audited, and deployed with greater confidence.
+Sai works at the intersection of applied AI, responsible AI, computer vision, LLM safety, and research-driven open-source development. His work focuses on building trustworthy AI systems that can be evaluated, audited, and deployed with greater confidence.
 
 ## Areas of Focus
 
-- Responsible AI and trustworthy machine learning
-- AI security, LLM safety, and agentic AI risk assessment
-- ML, LLM, and agentic system auditing, evaluation, and red-teaming
-- Bias detection, fairness assessment, and explainability
+- Responsible AI, fairness, explainability, and trustworthy machine learning
+- AI security, LLM safety, agentic AI risk assessment, auditing, and red-teaming
 - Computer vision dataset quality, robustness, and model reliability
 - Scientific AI for astronomy, healthcare, and other high-impact domains
-- Research-backed open-source tools for AI evaluation, monitoring, and governance
+- Open-source tools for AI evaluation, monitoring, safety, and governance
 
 
 ## Featured Open-Source Projects
