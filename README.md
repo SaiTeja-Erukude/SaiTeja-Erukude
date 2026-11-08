@@ -1,15 +1,16 @@
 # Sai Teja Erukude
-**Data Scientist | Responsible AI & AI Security Practitioner**
+**Data Scientist | Trustworthy AI & Security Researcher**
 
-Sai works at the intersection of responsible AI, AI security, and research-driven open-source development. His focus is building trustworthy AI systems that are easier to evaluate, audit, and secure.
+I build, evaluate, and break AI systems — with the goal of making them more useful, trustworthy, and secure.
+
+My work spans applied AI, trustworthy AI, and cybersecurity. I study where AI systems fail, how they can be exploited, and how to detect and mitigate bias. My security research has led to multiple CVEs across widely used open-source projects. Alongside my industry work, I publish research, review scientific papers, and build open-source tools.
 
 ## Areas of Focus
 
-- Responsible AI, fairness, explainability, and model reliability
-- AI security, LLM safety, agent evaluation, and vulnerability research
-- Computer vision, data quality, and scientific AI
-- Open-source tools for AI evaluation, security, and governance
-
+- Trustworthy AI — fairness, explainability, and model reliability
+- AI security — LLM safety, agent evaluation, and vulnerability research
+- Applied AI — computer vision, data quality, and scientific ML
+- Open-source tooling — tools for AI evaluation, and security
 
 ## Featured Open-Source Projects
 
@@ -23,13 +24,8 @@ Sai works at the intersection of responsible AI, AI security, and research-drive
 
 ## Research, Writing, and Professional Work
 
-Sai publishes and reviews technical work across responsible AI, computer vision, medical imaging, astronomy, and applied machine learning. His work focuses on connecting research, engineering, and practical AI governance.
-
-- **Google Scholar:** https://scholar.google.com/citations?user=j9Iggx8AAAAJ&hl=en&oi=ao
-- **DZone:** https://dzone.com/users/5431914/erukude.html
-- **Portfolio:** https://saiteja-erukude.github.io
-- **LinkedIn** https://www.linkedin.com/in/sai-teja-erukude
+[`Google Scholar`](https://scholar.google.com/citations?user=j9Iggx8AAAAJ&hl=en&oi=ao) · [`DZone`](https://dzone.com/users/5431914/erukude.html) · [`Portfolio`](https://saiteja-erukude.github.io/) · [`LinkedIn`](https://www.linkedin.com/in/sai-teja-erukude)
 
 ## Collaboration
 
-Sai welcomes collaboration on AI security, responsible AI, and research-driven open-source tools that create measurable real-world impact.
+I'm open to collaborating on AI security research, trustworthy AI, and open-source tools that create measurable real-world impact.
