@@ -7,10 +7,10 @@ My work spans applied AI, trustworthy AI, and cybersecurity. I study where AI sy
 
 ## Areas of Focus
 
-- Trustworthy AI — fairness, explainability, and model reliability
-- AI security — LLM safety, agent evaluation, and vulnerability research
-- Applied AI — computer vision, data quality, and scientific ML
-- Open-source tooling — tools for AI evaluation, and security
+- **Trustworthy AI** — fairness, explainability, and model reliability
+- **AI security** — LLM safety, agent evaluation, and vulnerability research
+- **Applied AI** — computer vision, data quality, and scientific ML
+- **Open-source tooling** — tools for AI evaluation, and security
 
 ## Featured Open-Source Projects
 
