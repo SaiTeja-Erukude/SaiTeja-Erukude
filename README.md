@@ -1,5 +1,5 @@
 # Sai Teja Erukude
-**Data Scientist | Trustworthy AI & Security Researcher**
+**Senior Data Scientist | Trustworthy AI & Security Researcher**
 
 I build, evaluate, and break AI systems — with the goal of making them more useful, trustworthy, and secure.
 
